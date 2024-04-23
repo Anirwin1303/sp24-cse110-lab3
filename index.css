@@ -1,0 +1,56 @@
+/* CSS File for meeting minutes webpage*/
+body{
+    background-color: white;
+    color: rgb(108, 108, 108);
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: palevioletred;
+    color: rgb(256, 256, 256);
+}
+
+footer{
+    background-color: palevioletred;
+    color: rgba(256, 256, 256, 100);
+}
+
+hr{
+    color: #000000;
+}
+
+h1{
+    color: hsl(0, 0, 0);
+    display: block;
+}
+
+h5{
+    color: black;
+    display: inline;
+}
+
+img{
+    height: 125px;
+    width: 125px;
+    max-width: 256px;
+    min-width: none;
+    position: relative;
+}
+
+video{
+    height: 125px;
+    width: 125px;
+    max-width: 256px;
+    min-width: none;
+    position: sticky;
+}
+
+#section2{
+    display: flex;
+}
+
+#section3{
+    display: grid;
+}
