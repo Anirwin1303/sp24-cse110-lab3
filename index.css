@@ -8,12 +8,12 @@ body{
 
 header{
     background-color: palevioletred;
-    color: rgb(256, 256, 256);
+    color: rgb(255, 255, 255);
 }
 
 footer{
     background-color: palevioletred;
-    color: rgba(256, 256, 256, 100);
+    color: rgba(255, 255, 255, 100);
 }
 
 hr{
