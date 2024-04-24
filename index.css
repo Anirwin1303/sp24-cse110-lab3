@@ -99,8 +99,8 @@ button:active{
     border-style: solid;
     border-radius: 0%;
     border-width: 5px;
-    padding: 25px, 25px, 25px, 25px;
-    margin: 10px, 10px, 10px, 10px;
+    padding: 25px 25px 25px 25px;
+    margin: 10px 10px 10px 10px;
 }
 
 #section3, #section4, #section5, #section6, #section7{
